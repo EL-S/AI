@@ -1,0 +1,2 @@
+name=fgt-kun
+start=Hello master, I am fgt-kun.

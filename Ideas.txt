@@ -1,0 +1,10 @@
+Marcus,
+Chatlog.txt
+records entire conversation ever
+set what is says as variable 1
+and what you say in response as variable 2
+have it look up a sentence you say if all else fails in the language and word database, it would then see if it had ever said it before and it would then get how you responded to it, effectively using your own answer
+something isn't right up there ^ Not sure what it is rn though
+I'll look more into this tongiht
+*tonight
+gotta finish getting ready

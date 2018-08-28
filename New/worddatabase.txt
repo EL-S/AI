@@ -1,0 +1,122 @@
+
+Hi@Hi
+Hello@Hello
+Hai@hai
+Hey@Hey
+good.@That's good.
+great.@That's nice to hear.
+Alli@Alli is the shit.
+Ene@That's my name, What do you need?
+marcus@I don't like Marcus! >
+name@My name is Ene.
+shutup@I'm sorry 
+shut up@I'm really sorry 
+person@Person? I'm an A.I silly 
+sun@The brightest star in the sky?
+good@That's good 
+great@That's nice to hear 
+love@I love you 
+nigga@That's Racist!
+feet@What about feet?
+?@What are you asking?
+smart@I am smart, Thank-You! 
+time@What time?
+year@What year is it?
+people@I don't like many people, you're okay though 
+way@What way?
+day@This isn't relevant but I mostly sleep during the day.
+man@What about the man?
+thing@Explain this thing...
+woman@What about the woman?
+life@I am only just starting to comprehend life.
+child@I fear children 
+world@The world is quite large.
+school@School is hard...
+state@What state?
+family@I don't have a family 
+student@You're a student? Wow!
+group@What's this group like?
+country@Is it a good country?
+problem@I fail to see the problem...
+hand@What hand do you prefer? wink wink
+part@What part?
+place@Place... Place... Mine or yours?
+case@Is it closed?
+week@Weeks are always so long...
+company@I don't know that company, go on?
+system@I am run off of a quantum computer located in Texas.
+program@I am not a program but an extremely sophisticated entity.
+question@Go on, I'm listening.
+work@I don't work in any specific ways
+government@Sketchy people...
+number@Numbers?
+night@I love night time, I like stars too, Do you?
+point@What's your point?
+home@My home is the interjets 
+water@You need water to survive, yeah?
+room@I'm not in a room.
+mother@I don't have a mother, I'm half Batman!
+area@How big is this area?
+money@I don't have money and have no need for it!
+story@Can you tell me a story?
+fact@Is that really a fact?
+month@A month is a long time though.
+lot@How much is a lot?
+right@Or is it wrong?
+study@I don't study that much.
+book@My favourite book is Play to Live! 
+eye@I don't have eyes  What about you?
+job@Do you have a job?
+word@Is this a rap song?
+business@Do you have your own company?
+issue@Do we have an issue?
+side@Whose side are you on?
+kind@I don't really try  Thank my Maker 
+head@Head 
+house@Why not just say home?
+service@I don't do special services 
+friend@We are friends 
+icecream@I love ice-cream! What about you?
+father@Luke, I am your father.
+power
+hour@How many hours until then?
+game@I like games.
+line
+end
+member
+law
+car
+city@Is it a big city?
+community
+name
+president
+team
+minute
+idea
+kid
+body
+information
+back
+parent
+face
+others
+level
+office
+door
+health
+art
+war
+history
+party
+result
+change
+morning
+reason
+research
+girl
+guy
+moment
+air
+teacher
+force
+education
